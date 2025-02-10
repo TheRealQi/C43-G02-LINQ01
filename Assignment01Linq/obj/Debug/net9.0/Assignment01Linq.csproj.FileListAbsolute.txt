@@ -1,0 +1,16 @@
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Assignment01Linq.exe
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Assignment01Linq.deps.json
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Assignment01Linq.runtimeconfig.json
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Assignment01Linq.dll
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Assignment01Linq.pdb
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.AssemblyInfoInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.AssemblyInfo.cs
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.csproj.CoreCompileInputs.cache
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.dll
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\refint\Assignment01Linq.dll
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.pdb
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\Assignment01Linq.genruntimeconfig.cache
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\obj\Debug\net9.0\ref\Assignment01Linq.dll
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\Customers.xml
+C:\Users\TheRe\RiderProjects\Assignment01Linq\Assignment01Linq\bin\Debug\net9.0\dictionary_english.txt
